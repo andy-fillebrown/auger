@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Auger
+# auger
 
-![Logo](https://andy-fillebrown.github.io/auger/assets/images/logo.png)
+![logo](https://andy-fillebrown.github.io/auger/assets/images/logo.png)
