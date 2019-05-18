@@ -1,0 +1,9 @@
+[submodule "submodules/af-cmake-modules"]
+	path = submodules/af-cmake-modules
+	url = git@github.com:andy-fillebrown/af-cmake-modules.git
+[submodule "submodules/af-cmake-cpp-modules"]
+	path = submodules/af-cmake-cpp-modules
+	url = git@github.com:andy-fillebrown/af-cmake-cpp-modules.git
+[submodule "submodules/af-cmake-qt-modules"]
+	path = submodules/af-cmake-qt-modules
+	url = git@github.com:andy-fillebrown/af-cmake-qt-modules.git
